@@ -1,4 +1,6 @@
 
+
+    $(document).ready(()=>$('.footer-icon,.featred-link,.question-icone,.fas fa-search fa-fw').click(false))
     let info=document.querySelector('.featured-info');
     let inven=document.getElementById('invent');
 
