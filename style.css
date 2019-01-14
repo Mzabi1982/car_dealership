@@ -205,7 +205,7 @@ video{
 .content{
    position: absolute;
    top:25%;
-   left:25%;
+   left:23%;
    z-index: 10;
    color:white;
    display: flex;
@@ -295,6 +295,7 @@ video{
 
 .car-card,.car-img{
     border-radius: 0!important;
+    
 }
 
 .car-value{
@@ -443,9 +444,12 @@ background-color: var(--mainBleu);
      
 }
 
-@media only screen and (max-width: 500px) {
+
+
+
+@media only screen and (max-width: 300px) {
     .car-text img {
-      top:50%;
+      top:35%;
     }
   }
 
