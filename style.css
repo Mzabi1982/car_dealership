@@ -522,6 +522,10 @@ video {
         font-size: 2rem;
     }
 
+    .content {
+        margin-top: -4rem;
+    }
+
 
 }
 
