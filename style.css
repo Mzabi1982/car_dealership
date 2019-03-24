@@ -233,6 +233,7 @@ video {
     margin: .2rem;
     width: 70%;
     z-index: 11;
+
     transition: all .5s ease-in-out;
 
 }
@@ -516,4 +517,20 @@ video {
     .car-text img {
         margin-top: -4rem;
     }
+
+    #testemonil h1 {
+        font-size: 2rem;
+    }
+
+
+}
+
+@media (max-width:600px) {
+
+
+    .video a {
+        margin-left: -2rem;
+    }
+
+
 }
